@@ -1,2 +1,2 @@
 # SequentialLearning
-SGD for online learning and feature selection
+In this small project, a simple technique based on incremental learning of support vector machines in order to rank the features in real time within a streaming model for network data is presented. Some illustrative numerical experiments with two popular benchmark datasets show that incremental SVM approach allows to adapt to the changes in normal network behaviour and novel attack patterns which have not been experienced before.
