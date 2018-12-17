@@ -8,4 +8,4 @@ Most of the feature selection methods for finding the best feature subset are ap
 * Feature weights change with time and/or attack type
 * The computational complexity will decrease in large datasets with the SGD training.
 
-![alt text](/master/figures/MSEerror.eps)
+![](figures/MSEerror.eps?raw=true)
